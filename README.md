@@ -1,7 +1,7 @@
 Prerequisites
 Ensure you have the following installed:
 
-Node.js (version >= 16)
-npm (Node Package Manager)
-Playwright (installed via npm)
+1. Node.js (version >= 16)
+2. npm (Node Package Manager)
+3. Playwright (installed via npm)
 
