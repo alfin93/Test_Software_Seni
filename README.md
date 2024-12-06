@@ -6,8 +6,7 @@ Prerequisites
 3. Playwright (installed via npm)
 
 Setup Instructions
-- Clone the repository
-1. Clone the Repository
+1. Clone the repository
 
 - Install Dependencies
 1. npm install
